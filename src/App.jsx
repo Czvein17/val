@@ -42,7 +42,7 @@ function App() {
               alt="Bear with hearts"
               src="https://media.tenor.com/-7SYtTcdBeYAAAAi/happy-love.gif"
             />
-            <div>Can you be my valentines?</div>
+            <div>Will you be my valentines</div>
 
             <div className="buttonContainer">
               <button
